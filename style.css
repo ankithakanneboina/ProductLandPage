@@ -1,0 +1,137 @@
+.nav{
+  /* background-color:yellow; */
+  display:flex;
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+.h{
+  margin-left:150px;
+}
+.link{
+  margin-top:28px;
+  font-size:20px;
+  margin-left:600px;
+  word-spacing: 58px;
+}
+.a1{
+  text-decoration: none;
+  color: pink;
+  cursor:pointer;
+}
+.a1:hover{
+text-decoration: underline;
+color:purple;
+transition: all 0.3s ease;
+}
+.h1{
+  margin-bottom: 5px;
+  color: blue;
+
+}
+.p1{
+color:pink;
+}
+.div2{
+  width:800px;
+  display: flex;
+}
+.sec2{
+  margin-top: 5px;
+  justify-content: center;
+  display: flex;
+}
+.pic{
+  margin-top: 100px;
+  width:400px;
+  align-items: center;
+  
+}
+.para{
+  width:300px;
+  margin-top: 180px;
+  margin-left: 15px;
+
+}
+.i1{
+  border: none;
+  border-radius: 25px;
+  width:350px;
+}
+.but1{
+  margin-top: 20px;
+
+}
+.b1{
+  border-radius: 25px;
+  color:white;
+  background-color: blueviolet;
+  cursor:pointer;
+  width: 200px; 
+  height: 35px;
+}
+.b1:hover{
+  color:white;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  background-color: black;
+
+}
+.sec3{
+  display: flex;
+  margin-top:0PX;
+  margin-bottom: 50px;
+  /* background-color: blueviolet; */
+}
+.box{
+  width:100px;
+  height:100px;
+  border-color: black;
+  border:2px solid black;
+  margin:300px;
+  margin-left:200px;
+  margin-right:auto;
+  border-radius: 10px;
+  margin:40px;
+  
+}
+.s1{
+  margin-left:30px;
+}
+.box img{
+  width: 80%;
+  height: 80%;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-left:5px;
+}
+.div3{
+  width:600px;
+  display: flex;
+  margin-left:190px;
+  word-spacing: 150px;
+}
+.t1{
+  color: blue;
+  margin-left: 40px;
+  text-align:left;
+  margin-top: 100px;
+}
+.p2,.p3{
+  animation-name: changecolor;
+  animation-duration:5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+@keyframes changecolor {
+  0% {
+    color: black; /* Starting color */
+    font-size: 16px;
+  }
+  50% {
+    color: red; /* Color at 50% of the animation */
+    font-size: 24px;
+  }
+  100% {
+    color: blue; /* Ending color (back to start) */
+    font-size: 16px;
+  }
+}
