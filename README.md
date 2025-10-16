@@ -60,6 +60,7 @@ Building visually appealing product pages for marketing or portfolio purposes
 Here’s how the landing page looks:
 
 🖼️ Replace the above image paths (Product landing webpage.png) with your actual screenshot file paths.
+https://github.com/ankithakanneboina/ProductLandPage/blob/main/Product%20landing%20webpage.png
 
 🧑‍💻 Author
 
