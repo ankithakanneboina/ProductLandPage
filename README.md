@@ -63,7 +63,7 @@ Desktop View	Mobile View
 
 	
 
-🖼️ Replace the above image paths (images/screenshot-desktop.png) with your actual screenshot file paths.
+🖼️ Replace the above image paths (Product landing page.png) with your actual screenshot file paths.
 
 🧑‍💻 Author
 
