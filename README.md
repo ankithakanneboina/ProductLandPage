@@ -55,7 +55,12 @@ Implementing smooth CSS transitions and hover effects
 
 Building visually appealing product pages for marketing or portfolio purposes
 
-📸 Screenshots
+## 📸 Screenshots
+
+| Desktop View | Mobile View |
+|---------------|--------------|
+| ![Desktop Screenshot](Product landing webpage.png) | ![Mobile Screenshot](Product landing webpage.png) |
+
 
 Here’s how the landing page looks:
 
