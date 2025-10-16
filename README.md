@@ -59,10 +59,6 @@ Building visually appealing product pages for marketing or portfolio purposes
 
 Here’s how the landing page looks:
 
-Desktop View	Mobile View
-
-	
-
 🖼️ Replace the above image paths (Product landing webpage.png) with your actual screenshot file paths.
 
 🧑‍💻 Author
